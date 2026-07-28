@@ -1,4 +1,0 @@
-requests
-pyyaml
-apscheduler
-beautifulsoup4
